@@ -1,0 +1,6 @@
+{
+  "name": "BD Sports",
+  "description": "Live sports and global TV streaming discovery app with real-time discovery and HLS playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
